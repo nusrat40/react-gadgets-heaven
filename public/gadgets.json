@@ -1,0 +1,156 @@
+[
+    {
+      "product_id": "P001",
+      "product_title": "Apple iPhone 15 Pro Max",
+      "product_image": "https://i.ibb.co.com/Tg2CmnR/zeesha-SUGIhq-Gr-Is-unsplash.jpg",
+      "category": "iPhone",
+      "price": 1299,
+      "description": "Experience the ultimate smartphone with the iPhone 15 Pro Max.",
+      "specification": [
+        "6.7-inch Super Retina XDR display",
+        "A17 Bionic chip",
+        "Triple-camera system (48MP Main, 12MP Telephoto, 12MP Ultrawide)",
+        "LiDAR Scanner",
+        "Up to 2TB storage"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "P002",
+      "product_title": "Samsung Galaxy S23 Ultra",
+      "product_image": "https://i.ibb.co.com/KqZB4SQ/lacie-slezak-e-Jsh9-LKn-X-A-unsplash.jpg",
+      "category": "Phones",
+      "price": 1199,
+      "description": "Explore the powerful Samsung Galaxy S23 Ultra.",
+      "specification": [
+        "6.8-inch Dynamic AMOLED 2X",
+        "Snapdragon 8 Gen 2",
+        "200MP Quad-camera system",
+        "S Pen support",
+        "Up to 1TB storage"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "P003",
+      "product_title": "Apple MacBook Pro 14-inch",
+      "product_image": "https://i.ibb.co.com/myBcBsz/maxim-hopman-Hin-rzh-Od-Ws-unsplash.jpg",
+      "category": "MacBook",
+      "price": 1999,
+      "description": "Apple MacBook Pro with M2 Pro chip for ultimate performance.",
+      "specification": [
+        "14.2-inch Liquid Retina XDR display",
+        "M2 Pro chip",
+        "16GB Unified Memory",
+        "512GB SSD storage",
+        "Up to 18 hours of battery life"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "P004",
+      "product_title": "Dell XPS 13",
+      "product_image": "https://i.ibb.co.com/z4SwKDc/nahima-aparicio-uxb-XQXRv-RR4-unsplash.jpg",
+      "category": "Laptops",
+      "price": 999,
+      "description": "Dell XPS 13 with InfinityEdge display and powerful performance.",
+      "specification": [
+        "13.4-inch FHD+ display",
+        "Intel Core i7 11th Gen",
+        "16GB RAM",
+        "512GB SSD",
+        "Windows 11"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "P005",
+      "product_title": "Sony WH-1000XM5 Headphones",
+      "product_image": "https://i.ibb.co.com/dfZK48W/c-d-x-PDX-a-82obo-unsplash.jpg",
+      "category": "Accessories",
+      "price": 399,
+      "description": "Sony WH-1000XM5 with industry-leading noise cancellation.",
+      "specification": [
+        "Over-ear headphones",
+        "Active Noise Cancellation",
+        "Up to 30 hours battery life",
+        "Quick charge feature",
+        "Bluetooth 5.2"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "P006",
+      "product_title": "Apple Watch Series 8",
+      "product_image": "https://i.ibb.co.com/yR6wyfT/jens-kreuter-PKnn-n-XCNhs-unsplash.jpg",
+      "category": "Smart Watches",
+      "price": 399,
+      "description": "Apple Watch Series 8 with health tracking and always-on display.",
+      "specification": [
+        "Always-on Retina display",
+        "ECG and Blood Oxygen sensor",
+        "Sleep tracking",
+        "Up to 18 hours battery life",
+        "Water-resistant up to 50 meters"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "P007",
+      "product_title": "ASUS ROG Zephyrus G14",
+      "product_image": "https://i.ibb.co.com/z4SwKDc/nahima-aparicio-uxb-XQXRv-RR4-unsplash.jpg",
+      "category": "Laptops",
+      "price": 1499,
+      "description": "ASUS ROG Zephyrus G14 gaming laptop with powerful performance.",
+      "specification": [
+        "14-inch QHD display",
+        "AMD Ryzen 9",
+        "16GB RAM",
+        "1TB SSD",
+        "NVIDIA GeForce RTX 3060"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "P008",
+      "product_title": "Samsung Galaxy Watch 5",
+      "product_image": "https://i.ibb.co.com/yR6wyfT/jens-kreuter-PKnn-n-XCNhs-unsplash.jpg",
+      "category": "Smart Watches",
+      "price": 279,
+      "description": "Samsung Galaxy Watch 5 with advanced fitness tracking.",
+      "specification": [
+        "1.4-inch Super AMOLED display",
+        "BioActive sensor",
+        "Sleep and stress tracking",
+        "Up to 40 hours battery life",
+        "Water-resistant up to 50 meters"
+      ],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": "P009",
+      "product_title": "Anker PowerCore 10000 Portable Charger",
+      "product_image": "https://i.ibb.co.com/SyDyscn/chris-lynch-Le-Vp-S-RYGm8-unsplash.jpg",
+      "category": "Accessories",
+      "price": 25,
+      "description": "Anker PowerCore 10000, a compact and portable charger.",
+      "specification": [
+        "10,000mAh battery capacity",
+        "High-speed charging",
+        "Compact and lightweight",
+        "Multiple safety features",
+        "USB-A output port"
+      ],
+      "availability": true,
+      "rating": 4.6
+    }
+  ]
+  
